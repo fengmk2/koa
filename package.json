@@ -30,7 +30,7 @@
     "finished": "~1.2.0",
     "co": "~3.0.2",
     "debug": "*",
-    "fresh": "~0.2.1",
+    "fresh": "~0.5.2",
     "koa-compose": "~2.3.0",
     "koa-is-json": "~1.0.0",
     "cookies": "~0.4.0",
